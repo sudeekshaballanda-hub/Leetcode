@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0344-reverse-string](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
