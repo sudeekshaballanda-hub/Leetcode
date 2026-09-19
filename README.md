@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
