@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
