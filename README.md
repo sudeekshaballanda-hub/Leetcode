@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
