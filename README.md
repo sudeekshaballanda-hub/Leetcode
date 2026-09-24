@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0724-find-pivot-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
