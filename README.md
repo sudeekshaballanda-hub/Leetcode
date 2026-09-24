@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
