@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
