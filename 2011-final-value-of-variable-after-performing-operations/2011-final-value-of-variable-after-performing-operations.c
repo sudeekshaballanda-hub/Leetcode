@@ -3,11 +3,11 @@ int finalValueAfterOperations(char** operations, int operationsSize) {
     for(int i=0;i<operationsSize;i++)
     {
 
-        if(strcmp(operations[i],"X++")==0|| strcmp(operations[i],"++X")==0)
+        if(operations[i][1]=='+')
         {
             count++;
         }
-        else if(strcmp(operations[i],"X--")==0||strcmp(operations[i],"--X")==0)
+        else
         {
             count--;
         }
