@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
