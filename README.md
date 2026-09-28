@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0507-perfect-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
