@@ -11,22 +11,16 @@ int* selfDividingNumbers(int left, int right, int* returnSize) {
         while(temp!=0)
         {
             int digit=temp%10;
-            if(digit==0)
+            if(digit==0 || i%digit!=0)
             {
                 valid=0;
                 break;
             }
-            if(i%digit!=0)
-            {
-                valid=0;
-                break;
-            }
-            temp=temp/10;
+            temp/=10;
         }
-        if(valid==1)
+        if(temp==0)
         {
-            output[k]=i;
-            k++;
+            output[k++]=i;
         }
     }
     *returnSize=k;
