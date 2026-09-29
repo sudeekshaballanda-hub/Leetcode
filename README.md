@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0231-power-of-two) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0202-happy-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
