@@ -3,14 +3,11 @@ int maxSubArray(int* nums, int numsSize) {
     int maxsum=nums[0];
     for(int i=1;i<numsSize;i++)
     {
-        if(currsum+nums[i]<nums[i])
+        if(currsum<0)
         {
-            currsum=nums[i];
+            currsum=0;
         }
-        else
-        {
-            currsum+=nums[i];
-        }
+        currsum+=nums[i];
         if(currsum>maxsum)
         {
             maxsum=currsum;
