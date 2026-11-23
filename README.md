@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sudeekshaballanda-hub/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
